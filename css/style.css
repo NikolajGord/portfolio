@@ -1,0 +1,16 @@
+body {
+  background-color: #99C4C8;
+}
+h1,p {
+  font-size: 36px;
+}
+img{
+  width: 33%;
+}
+div {
+  white-space: nowrap;
+  /*overflow-x: scroll;*/
+  }
+div:hover {
+  background-color: white;
+}
